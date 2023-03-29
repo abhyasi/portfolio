@@ -3,26 +3,18 @@ import React from 'react'
 const Inprogress = () => {
     const inProgress = [
         {
-            name: 'Graphical DFA/NFA Simulator',
+            name: '8085 Simulator',
             description: 'Web Application'
         },
         {
-            name: 'Noises of Nepal',
+            name: 'Text Adventure Game',
             description: 'Web Application'
-        },
-        {
-            name: 'Block Network Organization',
-            description: 'Case Study'
-        },
-        {
-            name: 'Linear Steller Model',
-            description: 'Case Study'
         },
     ]
     return (
         <>
             <div className="flex flex-col gap-4">
-                <h2 className="font-medium text-2xl">Work in Progress</h2>
+                <h2 className="text-2xl font-medium">Work in Progress</h2>
                 <ul className="list-inside">
                     {
                         inProgress.map((project, index) => (

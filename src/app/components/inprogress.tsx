@@ -7,7 +7,7 @@ const Inprogress = () => {
             description: 'Web '
         },
         {
-            name: 'Text Adventure Game',
+            name: 'Blockchain Voting System',
             description: 'Web Application'
         },
     ]

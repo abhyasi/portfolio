@@ -73,7 +73,7 @@ const Page = () => {
 			</div>
 
 			<p className="text-xs">
-				{'Abhishek Abhyasi ' + new Date().getFullYear()}, <a href='https://github.com/bhaskarrijal/bhaskarrijal-min' target='_blank' className='italic underline text-primary'>open source template</a>
+				{'Abhishek Abhyasi ' + new Date().getFullYear()}, <a href='https://github.com/bhaskarrijal/bhaskarrijal-min' target='_blank' className='italic underline text-primary'>Click here.</a>
 			</p>
 		</div>
 	);

@@ -3,8 +3,8 @@ import React from 'react'
 const Inprogress = () => {
     const inProgress = [
         {
-            name: '8085 Simulator',
-            description: 'Web Application'
+            name: 'React.js',
+            description: 'Web '
         },
         {
             name: 'Text Adventure Game',

@@ -18,6 +18,10 @@ const Social = () => {
             name: 'Facebook',
             link: 'https://facebook.com/abhyasi.mr',
         },
+        {
+            name: 'Snapchat',
+            link: 'https://snapchat.com/mrabhyasi',
+        },
     ]
 
     return (

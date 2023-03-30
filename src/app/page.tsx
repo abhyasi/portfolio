@@ -21,7 +21,7 @@ const Page = () => {
 					</p>
 					<p>Namaskar!</p>
 					<p className="text-justify">
-						I'm Abhishek, a BSc. CSIT student at TU IOST and the owner of Binary SoftTech, a tech company I founded to provide top-notch software development and IT consulting services. When I'm not working on exciting new projects, I enjoy attending tech conferences and giving back to my community through volunteer work.
+						I'm Abhishek, a BSc. CSIT student at TU IOST and the owner of Binary SoftTech, a tech company we founded to provide top-notch software development and IT consulting services. When I'm not working on exciting new projects, I enjoy attending tech conferences and giving back to my community through volunteer work.
 					</p>
 				</div>
 				<Image
